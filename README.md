@@ -7,6 +7,10 @@ In this Project, we are going to use Spotify API dataset to perform analysis & g
 Technologies used :
 --
 AWS S3 : Store API fetch data, transformed data.
+
 AWS Lambda : To execute extract load & transform function.
+
 AWS Glue Crawler : To create metadata table pointed towards S3.
+
 AWS Athena : For query execution on the top of data catalog tables to perform analysis.
+ 
