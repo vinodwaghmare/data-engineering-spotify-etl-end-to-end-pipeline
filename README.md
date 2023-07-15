@@ -16,25 +16,6 @@ Again adding trigger on transformation function based on events in S3 directory.
 
 Building Analytics Tables on data files in AWS S3 using Glue and Athena.
 
-Technologies Used
---
-AWS S3
-
-AWS lambda
-
-AWS Glue
-
-AWS Athena
-
-
-
-
-
-
-
-
-
-
 Technologies used :
 --
 AWS S3 : Store API fetch data, transformed data.
