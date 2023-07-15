@@ -1,4 +1,4 @@
-# DATA ENGINEERING COMPLETE SPOTIFY ETL PIPELINE 
+# Data Engineering Complete Spotify ETL Pipeline 
 
 Description
 --
