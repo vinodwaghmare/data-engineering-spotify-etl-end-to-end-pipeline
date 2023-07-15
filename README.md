@@ -1,8 +1,39 @@
-# data-engineering-spotify-etl-end-to-end-pipeline
+# DATA ENGINEERING COMPLETE SPOTIFY ETL PIPELINE 
 
 Description
 --
 In this Project, we are going to use Spotify API dataset to perform analysis & getting insights, here we will build ETL (extract, Transform, Load ) pipeline to fetch raw data from the source ( Spofity API) & transform it in the meaningful dataset.
+
+Steps For Complete ETL Pipeline 
+--
+Spotify API dataset extraction using AWS lambda function.
+
+Adding trigger on extract load function by scheduling it.
+
+Deploying Transformation function code in AWS lambda function.
+
+Again adding trigger on transformation function based on events in S3 directory. 
+
+Building Analytics Tables on data files in AWS S3 using Glue and Athena.
+
+Technologies Used
+--
+AWS S3
+
+AWS lambda
+
+AWS Glue
+
+AWS Athena
+
+
+
+
+
+
+
+
+
 
 Technologies used :
 --
