@@ -18,9 +18,9 @@ Building Analytics Tables on data files in AWS S3 using Glue and Athena.
 
 Technologies used :
 --
-*AWS S3 : Store API fetch data, transformed data.
+* AWS S3 : Store API fetch data, transformed data.
 
-AWS Lambda : To execute extract load & transform function.
+* AWS Lambda : To execute extract load & transform function.
 
 AWS Glue Crawler : To create metadata table pointed towards S3.
 
